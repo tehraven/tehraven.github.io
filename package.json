@@ -1,0 +1,13 @@
+{
+    "name": "somethingbinary.com",
+    "version": "1.0.0",
+    "description": "SomethingBinary.com Node Root",
+    "author": "Anthony Powers <tehraven@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
